@@ -20,7 +20,7 @@
 
 {
     'name': 'Sale stock commissions',
-    'version': '8.0.1.0.0',
+    'version': "18.0.1.0.0",
     'author': 'Serv. Tecnol. Avanzados - Pedro M. Baeza',
     "category": "Generic Modules/Sales & Purchases",
     'license': 'AGPL-3',
